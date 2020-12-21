@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Connect-Four-Game/static/css/main.27bef3c3.chunk.css",
+    "main.js": "/Connect-Four-Game/static/js/main.9efe8a78.chunk.js",
+    "main.js.map": "/Connect-Four-Game/static/js/main.9efe8a78.chunk.js.map",
+    "runtime-main.js": "/Connect-Four-Game/static/js/runtime-main.94ed815b.js",
+    "runtime-main.js.map": "/Connect-Four-Game/static/js/runtime-main.94ed815b.js.map",
+    "static/js/2.7ddaea4c.chunk.js": "/Connect-Four-Game/static/js/2.7ddaea4c.chunk.js",
+    "static/js/2.7ddaea4c.chunk.js.map": "/Connect-Four-Game/static/js/2.7ddaea4c.chunk.js.map",
+    "index.html": "/Connect-Four-Game/index.html",
+    "static/css/main.27bef3c3.chunk.css.map": "/Connect-Four-Game/static/css/main.27bef3c3.chunk.css.map",
+    "static/js/2.7ddaea4c.chunk.js.LICENSE.txt": "/Connect-Four-Game/static/js/2.7ddaea4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ed815b.js",
+    "static/js/2.7ddaea4c.chunk.js",
+    "static/css/main.27bef3c3.chunk.css",
+    "static/js/main.9efe8a78.chunk.js"
+  ]
+}
